@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 493657368
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8559c2714dacfe1602679e0922dbf28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d8559c2714dacfe1602679e0922dbf28
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Sprites/Ranks/smile_2.png
+- Assets/AssetBundles/Sprites/Ranks/smile_3_closed.png
+- Assets/AssetBundles/Sprites/Ranks/smile_6_closed.png
+- Assets/AssetBundles/Sprites/Ranks/smile_5_closed.png
+- Assets/AssetBundles/Sprites/Ranks/smile_1_closed.png
+- Assets/AssetBundles/Sprites/Ranks/smile_2_closed.png
+- Assets/AssetBundles/Sprites/Ranks/smile_5.png
+- Assets/AssetBundles/Sprites/Ranks/smile_7_closed.png
+- Assets/AssetBundles/Sprites/Ranks/smile_maneken.png
+- Assets/AssetBundles/Sprites/Ranks/smile_6.png
+- Assets/AssetBundles/Sprites/Ranks/smile_4.png
+- Assets/AssetBundles/Sprites/Ranks/smile_4_closed.png
+- Assets/AssetBundles/Sprites/Ranks/smile_3.png
+- Assets/AssetBundles/Sprites/Ranks/smile_7.png
+- Assets/AssetBundles/Sprites/Ranks/smile_1.png
+Dependencies: []

@@ -1,0 +1,252 @@
+ManifestFileVersion: 0
+CRC: 794741207
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4b56039e156962fd3f1dd32015d0ea6c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99f0b3a4f7dc81ad8e12c6d6091e6c7a
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4b56039e156962fd3f1dd32015d0ea6c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83c34e23f030c074899e61d445364c87, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a91cdcc06ea795f46a5c23e380064b79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1411c0045fbe7e64d985442d06d28208, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e8b2e80cd3c5f846a7a243df8f97357, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 564301fbc97058c458c3b0e5a5758c67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8f87d9bcda4bc8419c5e3838dcf7f95, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c25994018c74190479c2492f1c4a7c10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9046ef9b46ee2d6459b34b6882aa4949, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e6c90cee9da68ac409a7a84058942344, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a9b67c747af6824ab7fb2a2f915dc8f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fef1c66dca4317b4f8c36c50984883d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ca56e50c78e8dcb4b8435012171205c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ed93861181a75143b44620a0b32ab1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 963c3aadeb157284d850957ea6badc23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f8662c27fdb421f4887e83d9281c385b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16f0b0b6d0b7542bfbd20a3e05b04ff1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac7f2b12c44ecdd4284cb345d2a4a8d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e104493072dd042469eb14c7beafab7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f051efed6b1252842a4eba305b33386b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1bebf79ce8f90a44483395583c1c92c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f2e528771d52e4fafd657f61437564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2ee5e971676c894e87930e38b2d4ae8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eac4b7f727db6e741931e4e7c02f18fd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 506a5b10e884194479f53dc1a78abddd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89905d69e959caf4b8bf7132019201d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5f71bb45f9913241a5b02f510ad6cf1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e448f3460e0aab4d8b11b94fa8c0fb9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e8001f37ca7cd734da2ebd57b137ea51, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/OnChangeEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SubmitEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TextSelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TouchScreenKeyboardEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator/Settings
+Assets:
+- Assets/AssetBundles/PopupDebug/ConnectionLost/ConnectionLost.prefab
+- Assets/Resources/Sprites/General/progressbar/time_scale.png
+- Assets/Resources/Sprites/General/Icon_cup_small.png
+- Assets/Resources/Sprites/General/tick.png
+- Assets/Resources/Sprites/General/Light_under_character 1.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/AdditionalBackgrounds/tab_special_object_bg.png
+- Assets/Resources/Sprites/General/weapon_selection_lock.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/Backgrounds/green_object_bg.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/Backgrounds/grey_object_bg.png
+- Assets/AssetBundles/PopupDebug/SessionsListPopup/SessionPreviewItem.prefab
+- Assets/Resources/Sprites/General/Backhround_bombs.png
+- Assets/Resources/Sprites/General/progressbar/Progress_bar.png
+- Assets/AssetBundles/PopupDebug/SessionsListPopup/SessionsListPopup.prefab
+- Assets/AssetBundles/PopupDebug/RoundResultPopup/RoundResultPopup.prefab
+- Assets/AssetBundles/PopupDebug/SessionInfoPopup/SessionInfoPopup.prefab
+- Assets/Resources/Sprites/General/Button/button_back_menu.png
+- Assets/AssetBundles/PopupDebug/ShopWeaponInfo/ShopWeaponInfoPopup.prefab
+- Assets/Resources/Sprites/General/Button/Button_STOP.png
+- Assets/AssetBundles/PopupDebug/SessionInfoPopup/SessionPlayer.prefab
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/AdditionalBackgrounds/tab_grey_object_bg.png
+- Assets/Resources/Sprites/General/Button/Button_menu_shadow.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/Backgrounds/simple_object_bg.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/GlobalReward.prefab
+- Assets/Resources/Sprites/General/Button/button_back.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/bg_price_notenough.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/AdditionalBackgrounds/tab_green_object_bg.png
+- Assets/Resources/Sprites/General/progressbar/Progress_bar_shadow.png
+- Assets/AssetBundles/PopupDebug/TutorialStartBotGamePopup/TutorialStartBotGamePopup.prefab
+- Assets/Resources/Sprites/General/Button/button_red - Copy.png
+- Assets/Resources/Sprites/General/Button/Button_start_back.png
+- Assets/AssetBundles/PopupDebug/RatingListPopup/RanksInfoListPopup.prefab
+- Assets/Resources/Sprites/General/progressbar/Progress_bar_exp.png
+- Assets/Resources/Sprites/General/progressbar/Progress_bar_line.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/GlobalRewardWithBg.prefab
+- Assets/Resources/Sprites/General/Icon_cup_big.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/Backgrounds/blue_object_bg.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/AdditionalBackgrounds/tab_blue_object_bg.png
+- Assets/Resources/Sprites/General/Light_searching_players.png
+- Assets/Resources/Sprites/General/Button/button_back_battle.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/Backgrounds/promotional_object_bg.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/AdditionalBackgrounds/tab_simple_object_bg.png
+- Assets/Resources/Sprites/General/progressbar/hp_scale_0.png
+- Assets/Resources/Sprites/General/progressbar/time_scale2.png
+- Assets/Resources/Sprites/General/Background.png
+- Assets/Resources/Sprites/General/rip.png
+- Assets/Resources/Sprites/General/Inventory_card_large.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/Backgrounds/special_object_bg.png
+- Assets/AssetBundles/PopupDebug/_GlobalPrefabs/Reward/Sprites/bg_price_enough.png
+- Assets/Resources/Sprites/General/Button/Button_start.png
+Dependencies: []

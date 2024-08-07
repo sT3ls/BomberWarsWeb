@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3673347310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbc6c4f6d8123eae0423e1d68fd3cf75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cbc6c4f6d8123eae0423e1d68fd3cf75
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Sprites/Stuff/Icon_cup_big.png
+- Assets/AssetBundles/Sprites/Stuff/Icon_Gems_4_green_light.png
+- Assets/AssetBundles/Sprites/Stuff/coin_icon.png
+- Assets/AssetBundles/Sprites/Stuff/Icon_Gems_3_green_light.png
+- Assets/AssetBundles/Sprites/Stuff/Icon_Gems_2_green_light.png
+- Assets/AssetBundles/Sprites/Stuff/Icon_Gems_1_green_light.png
+Dependencies: []

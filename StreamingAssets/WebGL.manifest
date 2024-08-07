@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 245666003
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: popup
+      Dependencies: {}
+    Info_1:
+      Name: stuff
+      Dependencies: {}
+    Info_2:
+      Name: shop
+      Dependencies: {}
+    Info_3:
+      Name: ranks
+      Dependencies: {}
+    Info_4:
+      Name: weapons
+      Dependencies: {}
+    Info_5:
+      Name: tile_animations
+      Dependencies: {}
+    Info_6:
+      Name: tile_items
+      Dependencies: {}

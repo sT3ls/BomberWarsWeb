@@ -1,0 +1,135 @@
+ManifestFileVersion: 0
+CRC: 2253250601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ca56db47c9dba18e1f93563df4ad757
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77e6d40ec8ca4e6afdc341ba704f6fef
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3ca56db47c9dba18e1f93563df4ad757
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c9e3fbcb043ecf42ba77d9392a88ae7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator/Settings
+Assets:
+- Assets/AssetBundles/Prefabs/tile_animations/DynamiteBomb/animation_dynamite_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/animation_standart_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/Mine/Mine.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/SmallRadioBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/SmallRadioBomb/animation_small_radio_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/SmallBomb/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/ExplosionPrepare/ExplosionPrepare.anim
+- Assets/AssetBundles/Prefabs/tile_animations/MegaCrossFireBomb/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/CrossFireBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/MegaCrossFireBomb/animation_mega_crossfire_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/DynamiteBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/MegaCrossFireBomb/MegaCrossFireBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/SmallRadioBomb/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/MegaCrossFireBomb/animation_mega_crossfire_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/RadioBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/CrossFireBomb/animation_crossfire_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/SmallBomb/animation_small_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/CrossFireBomb/CrossFireBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/CrossFireBomb/animation_crossfire_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/Explosion/Explosion.anim
+- Assets/AssetBundles/Prefabs/tile_animations/ExplosionPrepare/ExplosionPrepareAnim.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/SmallBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/MegaCrossFireBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/DynamiteBomb/animation_dynamite_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/NuclearBomb/NuclearBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/Barrel/Barrel.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/SmallBomb/animation_small_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/NuclearBomb/animation_nuclear_case_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/NuclearBomb/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/SmallBomb/animation_small_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/DynamiteBomb/DynamiteBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/Explosion/ExplosionAnim.controller
+- Assets/AssetBundles/Prefabs/tile_animations/RadioBomb/animation_radio_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/CrossFireBomb/animation_crossfire_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/SmallRadioBomb/animation_small_radio_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/animation_standart_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/SmallRadioBomb/SmallRadioBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/skeleton 1_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/RadioBomb/animation_radio_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/Mine/animation_mine_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/Mine/animation_mine_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/DynamiteBomb/animation_dynamite_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/RadioBomb/animation_radio_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/DynamiteBomb/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/Mine/animation_mine_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/MegaCrossFireBomb/animation_mega_crossfire_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/Mine/animation_mine_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/SmallRadioBomb/animation_small_radio_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/Mine/skeleton.json
+- Assets/AssetBundles/Prefabs/tile_animations/CrossFireBomb/animation_crossfire_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/SmallBomb/animation_small_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/animation_standart_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/Mine/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/ExplosionPrepare/ExplosionPrepareAnim.controller
+- Assets/AssetBundles/Prefabs/tile_animations/RadioBomb/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/DynamiteBomb/animation_dynamite_bomb_Atlas.asset
+- Assets/AssetBundles/Prefabs/tile_animations/MegaCrossFireBomb/animation_mega_crossfire_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/SmallRadioBomb/animation_small_radio_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/StandartBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/NuclearBomb/animation_nuclear_case_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/RadioBomb/RadioBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/Barrel/Barrel.png
+- Assets/AssetBundles/Prefabs/tile_animations/NuclearBomb/animation_nuclear_case_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/RadioBomb/animation_radio_bomb.png
+- Assets/AssetBundles/Prefabs/tile_animations/Explosion/ExplosionAnim.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/SmallBomb/SmallBomb.prefab
+- Assets/AssetBundles/Prefabs/tile_animations/NuclearBomb/animation_nuclear_case_bomb_Material.mat
+- Assets/AssetBundles/Prefabs/tile_animations/StandartBomb/animation_standart_bomb.atlas.txt
+- Assets/AssetBundles/Prefabs/tile_animations/CrossFireBomb/skeleton_SkeletonData.asset
+- Assets/AssetBundles/Prefabs/tile_animations/NuclearBomb/skeleton_SkeletonData.asset
+Dependencies: []

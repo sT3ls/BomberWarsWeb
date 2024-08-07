@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2150576889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 069dd58eb51d81aa35d15769ada03d00
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 069dd58eb51d81aa35d15769ada03d00
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/Sprites/Shop/shop_gold_4.png
+- Assets/AssetBundles/Sprites/Shop/Icon_gold_medium.png
+- Assets/AssetBundles/Sprites/Shop/shop_gold_1.png
+- Assets/AssetBundles/Sprites/Shop/Icon_gold_huge.png
+- Assets/AssetBundles/Sprites/Shop/shop_gold_2.png
+- Assets/AssetBundles/Sprites/Shop/shop_gold_5.png
+- Assets/AssetBundles/Sprites/Shop/Icon_gold_small.png
+- Assets/AssetBundles/Sprites/Shop/shop_gold_6.png
+- Assets/AssetBundles/Sprites/Shop/Icon_gold_large.png
+- Assets/AssetBundles/Sprites/Shop/shop_gold_3.png
+Dependencies: []

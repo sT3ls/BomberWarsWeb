@@ -1,0 +1,116 @@
+ManifestFileVersion: 0
+CRC: 1174298705
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 044749eabb88ecf801a9b749f414b6ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30411851964559b7400e5528059ea812
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 044749eabb88ecf801a9b749f414b6ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_11.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_14.png
+- Assets/AssetBundles/Prefabs/tile_Items/PickWeapon/PickWeapon.prefab
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_12.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_14.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_1_Prefab.controller
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_6.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_15.png
+- Assets/AssetBundles/Prefabs/tile_Items/PickWeapon/icon_Kirk.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_7.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_2.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_15.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_1.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_2.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_7.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_8.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3.prefab
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Idle.anim
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_12.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_5.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_1.prefab
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_10.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_7.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_13.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_4.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_3.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_1.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_12.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2.controller
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_5.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Idle.anim
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_2.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_5.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_11.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_14.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_3.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4.controller
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_9.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_1.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4.prefab
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_9.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_10.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_15.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_8.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3.controller
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_13.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Idle.anim
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_6.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_7.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_1.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_14.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_6.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_13.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_4/Crystal_4_8.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_9.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_12.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_9.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_13.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_6.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_2.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_3.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_4.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_4.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_5.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_11.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Idle.anim
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_8.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2.prefab
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_15.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_1.gif
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_4.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_1/Crystal_10.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_3.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_3/Crystal_3_11.png
+- Assets/AssetBundles/Prefabs/tile_Items/Crystal_2/Crystal_2_10.png
+Dependencies: []
